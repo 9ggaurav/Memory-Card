@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import "tailwindcss";
+
+
+@theme{
+    --font-salckey: "Permanent Marker", cursive;
+}
+
+*{
+    font-family: salckey;
+}
+
+
+
